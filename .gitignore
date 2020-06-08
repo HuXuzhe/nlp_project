@@ -1,4 +1,6 @@
 data
 img
-**/.ipynb_checkpoints
-**/.git*
+.ipynb_checkpoints
+models
+
+
